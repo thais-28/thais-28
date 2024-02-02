@@ -11,7 +11,7 @@
 
 ![Thais Sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=thais-28&show_icons=true&theme=tokyonight)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Thais-28&bg_color=3a3979&color=fbb7f6&line=8dceba&point=379bb3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Thais-28&bg_color=0d0d12&color=fbb7f6&line=8dceba&point=379bb3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## **Tecnologias**
